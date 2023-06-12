@@ -2,7 +2,7 @@
 
 TODO: Написать
 
-![Test](./assets/login-test.png)
+![Test](../assets/login-test.png)
 
 # Тестирование API
 
